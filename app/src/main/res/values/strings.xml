@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Application 5</string>
+    <string name="enterpassword">Enter Password</string>
+    <string name="reenterpassword">Re Enter Password</string>
 </resources>
